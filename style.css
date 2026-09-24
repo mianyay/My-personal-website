@@ -1,0 +1,52 @@
+body {
+    background-color: bisque;
+     font-family: "Chewy", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #333;
+}
+
+.egg {
+    max-width: 400px;
+    width: 100%;
+    height: auto;
+    border: 5px solid #333;
+}
+
+nav {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+nav a {
+    color: #333;
+    background-color: #daad72;
+    padding: 10px 20px;
+    border: 2px solid #333;
+    transition: background-color 0.2s ease;
+}
+
+nav a:hover {
+    background-color: #bd9562;
+}
+
+h1, h2 {
+    text-decoration: underline;
+}
+
+table {
+    color: #333;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+table th, table td {
+    border: 2px solid #333;
+    padding: 12px;
+    text-align: left;
+}
