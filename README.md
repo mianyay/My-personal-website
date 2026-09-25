@@ -21,6 +21,7 @@ Download the files and open index.html in a browser.
 ## Screenshots
 <img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/b4763d00-d56c-4f2b-a9ee-4b7dfea71bf6" />
 <img width="1913" height="346" alt="image" src="https://github.com/user-attachments/assets/6c0e03ff-d21b-4206-84c0-c2ec12125c85" />
+<img width="625" height="758" alt="image" src="https://github.com/user-attachments/assets/f00532f1-3366-446f-b9ec-39a266b371ce" />
 
 
 
