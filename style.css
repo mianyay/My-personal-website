@@ -6,11 +6,14 @@ body {
     color: #333;
 }
 
-.egg {
+.egg, .soup, .soft, .banh, .sunny {
     max-width: 400px;
     width: 100%;
     height: auto;
     border: 5px solid #333;
+    display: block;   
+    margin-top: 10px;  
+    margin-bottom: 20px;
 }
 
 nav {
